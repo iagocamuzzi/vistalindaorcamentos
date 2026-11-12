@@ -1,5 +1,5 @@
 // Your web app's Firebase configuration
-const firebaseConfig = {
+export const firebaseConfig = {
   apiKey: "AIzaSyAF6QHeH1dDofYK_wUiekwkQwwFO4SWPQs",
   authDomain: "otica-orcamentos.firebaseapp.com",
   databaseURL: "https://otica-orcamentos-default-rtdb.firebaseio.com",
